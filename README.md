@@ -11,3 +11,4 @@ Technologies Used
 . Tailwind CSS: For quick and efficient styling with utility-first CSS classes.
 . HTML5: To structure the application.
 ![Screenshot 2024-05-29 090059](https://github.com/Abhishekgithubrit/Crud-Using-Alpine_js/assets/124499295/e418d3c3-d40b-43c7-8593-ca72ecd81fd3)
+Project Live on : https://abhishekgithubrit.github.io/Crud-Using-Alpine_js/
